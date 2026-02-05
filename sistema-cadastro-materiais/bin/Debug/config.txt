@@ -1,0 +1,4 @@
+Data Source=BASILISCO\SQLEXPRESS
+Initial Catalog=GUCCI_CONFERENCIA_MATERIAIS
+Trusted_Connection=true
+Integrated Security=SSPI
